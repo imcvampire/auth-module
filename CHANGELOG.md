@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="4.4.1"></a>
+## [4.4.1](https://github.com/nuxt-community/auth-module/compare/v4.3.0...v4.4.1) (2018-05-18)
+
+
+### Bug Fixes
+
+* **storage:** use false value for unsetting token/user ([#160](https://github.com/nuxt-community/auth-module/issues/160)) ([0450b57](https://github.com/nuxt-community/auth-module/commit/0450b57)), closes [nuxt-community/auth-module#133](https://github.com/nuxt-community/auth-module/issues/133)
+
+
+
 <a name="4.3.0"></a>
 # [4.3.0](https://github.com/nuxt-community/auth-module/compare/v4.2.1...v4.3.0) (2018-04-28)
 
